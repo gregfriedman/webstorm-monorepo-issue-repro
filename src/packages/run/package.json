@@ -1,0 +1,7 @@
+{
+  "name": "@repro/run",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.mjs",
+  "private": true
+}
